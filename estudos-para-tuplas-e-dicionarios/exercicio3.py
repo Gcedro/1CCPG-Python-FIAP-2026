@@ -1,5 +1,4 @@
-cores = ("azul", "verde", "vermelho")
+numeros = (10, 20, 30)
+print(numeros[1])
 
-cores[0] = "amarelo"
-
-## Alternativa C
+#Alternativa C)(10,20,30)

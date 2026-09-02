@@ -1,9 +1,8 @@
-produto = {
-    "nome": "Mouse",
-    "preco": 50,
-    "estoque": 10
+aluno = {
+    "nome": "Ana",
+    "idade": 18
 }
 
-print(produto["preco"])
+print("Ana" in aluno)
 
-## Alternativa B
+#Alternativa B)False

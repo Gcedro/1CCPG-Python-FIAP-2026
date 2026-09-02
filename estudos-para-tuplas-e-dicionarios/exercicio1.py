@@ -1,5 +1,10 @@
-aluno = ("Carlos", 17, "Informática")
-print(aluno[1])
+aluno = {
+    "nome": "Carlos",
+    "idade": 17,
+    "nota": 8
+}
 
-## alternativa B
+print(aluno["nota"])
+
+#Alternativa B)8
 

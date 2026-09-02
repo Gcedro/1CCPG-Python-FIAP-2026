@@ -1,7 +1,5 @@
-aluno = {
-    "nome": "Pedro"
-}
+numeros = (10, 20, 30)
+numeros[0] = 50
 
-aluno["idade"] = 17
+#Alternativa C)Ocorre um erro, pois tuplas são imutáveis e não podem ser alteradas após a criação.
 
-## Alternativa B
